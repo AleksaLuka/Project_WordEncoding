@@ -1,0 +1,12 @@
+> I suspect the starting point ought to be an encoding of all the dictionary words. 
+
+Thus, let's see how I can begin with this!
+
+Idea 1
+- Are there any open source databases with the information required for this task.
+- Perhaps such a database already exists & is complete!?
+
+Idea 2
+- Figure out how to build yourself (given Idea 1 has not yielded the required results)
+
+
