@@ -1,0 +1,11 @@
+THIS is step 2. 
+
+> With encoding done, what web do I need? 
+
+> What does the shape of my neural network need to be:
+- what dimensions? 
+- how will it learn? 
+- what indicator functions? 
+- what back-propagation algorithms (if this even applies) 
+
+> Most certainly... think about the dimensionality of my step 1 data step! That is the key context for this thinking of course!
